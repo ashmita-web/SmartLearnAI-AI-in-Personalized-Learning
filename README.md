@@ -11,13 +11,11 @@
 
 ---
 
-Demo & Resources
+## Demo & Resources
 
-Colab Notebook: SmartLearn_AI_Personalized_Learning.ipynb
-
-Demo Video: Watch Demo
-
-Presentation (PPT): Download PPT
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1pTaFC6kOhUKxCPIshSADyGBZrOiwQwHe?usp=sharing)
+- **Demo Video:** [Watch Demo](YOUR_VIDEO_LINK)
+- **Presentation (PPT):** [PPT Link](https://docs.google.com/presentation/d/1txNtDAj2tuE3eqUPPvdpXGaUEtmgzF61ZEityTwQ7hE/edit?slide=id.p#slide=id.p)
 
 ---
 
