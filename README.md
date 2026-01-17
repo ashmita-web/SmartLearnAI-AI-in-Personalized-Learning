@@ -16,6 +16,7 @@
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1pTaFC6kOhUKxCPIshSADyGBZrOiwQwHe?usp=sharing)
 - **Demo Video:** [Watch Demo](https://drive.google.com/file/d/1MPTbBftjsT9UUioxxq0ghKiJ271tA0HC/view?usp=sharing)
 - **Presentation (PPT):** [PPT Link](https://docs.google.com/presentation/d/1txNtDAj2tuE3eqUPPvdpXGaUEtmgzF61ZEityTwQ7hE/edit?slide=id.p#slide=id.p)
+- **Project Report:** [Report Link](https://docs.google.com/document/d/1uIUTwLfCsX4G1HlYEReNVlseEPVlg7tsiWADjppil6A/edit?usp=sharing)
 
 ---
 
