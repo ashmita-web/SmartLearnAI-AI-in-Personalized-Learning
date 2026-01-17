@@ -14,7 +14,7 @@
 ## Demo & Resources
 
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1pTaFC6kOhUKxCPIshSADyGBZrOiwQwHe?usp=sharing)
-- **Demo Video:** [Watch Demo](YOUR_VIDEO_LINK)
+- **Demo Video:** [Watch Demo](https://drive.google.com/file/d/1MPTbBftjsT9UUioxxq0ghKiJ271tA0HC/view?usp=sharing)
 - **Presentation (PPT):** [PPT Link](https://docs.google.com/presentation/d/1txNtDAj2tuE3eqUPPvdpXGaUEtmgzF61ZEityTwQ7hE/edit?slide=id.p#slide=id.p)
 
 ---
