@@ -2,7 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24-orange?logo=scikit-learn)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=googlecolab)
+
 
 ---
 
